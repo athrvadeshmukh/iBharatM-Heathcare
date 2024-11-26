@@ -1,6 +1,7 @@
 # IBharatM Health Care AI Project
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=IBharatM+Health+Care+AI)  
+![IBMSplashScreen](https://github.com/user-attachments/assets/63b1248f-f92c-4ec4-83ab-64ff2b60a3fb)
+
 *An innovative solution for early detection of lung diseases using AI.*
 
 ---
