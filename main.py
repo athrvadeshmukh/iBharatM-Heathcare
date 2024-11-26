@@ -128,18 +128,6 @@ class MainWindow(QMainWindow):
         developer_action.triggered.connect(self.show_developer)
         help_menu.addAction(developer_action)
 
-        # Donations Menu
-        donations_menu = QMenu("Donations", self)
-        menu_bar.addMenu(donations_menu)
-
-        contribute_action = QAction("Contribute Us", self)
-        contribute_action.triggered.connect(self.show_contribute)
-        donations_menu.addAction(contribute_action)
-
-        donation_action = QAction("Donation", self)
-        donation_action.triggered.connect(self.show_donation)
-        donations_menu.addAction(donation_action)
-
         # Legal Menu
         legal_menu = QMenu("Legal", self)
         menu_bar.addMenu(legal_menu)
@@ -173,19 +161,18 @@ class MainWindow(QMainWindow):
         dialog.exec_()
 
     def show_how_to_use(self):
-        QMessageBox.information(self, "How to Use", "Step-by-step guide on how to use this application.")
+        QMessageBox.information(self, "How to Use", "1. Click on 'Upload Image' to select an image file from your computer.\n2. Click on 'Enter Image URL' to enter the URL of an image.\n3. The application will display the image and the prediction results.\n4. You can select the chart type from the dropdown to view the prediction results in different formats.")
 
     def show_developer(self):
-        QMessageBox.information(self, "Developer", "Information about the developer.")
+        QMessageBox.information(self, "Developer", " Athrva Deshmukh, Gourav Kushwaha, Sonu Kushwaha and Naushad Ali.")
 
     def show_contribute(self):
-        QMessageBox.information(self, "Contribute Us", "Information on how to contribute to the project.")
+        QMessageBox.information(self, "Contribute Us", "https://github.com/athrvadeshmukh/iBharatM-Heathcare")
 
-    def show_donation(self):
-        QMessageBox.information(self, "Donation", "Information on how to donate to the project.")
 
     def show_terms(self):
-        QMessageBox.information(self, "Terms and Conditions", "Application terms and conditions.")
+        QMessageBox.information(self, "Licence", "Copyright 2024 Athrva Deshmukh, Gourav Kushwaha, Sonu Kushwaha and Naushad Ali,    Copyright 2024 Athrva Deshmukh\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nYou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0")
+
 
     def show_privacy(self):
         QMessageBox.information(self, "Privacy Policy", "Application privacy policy.")
