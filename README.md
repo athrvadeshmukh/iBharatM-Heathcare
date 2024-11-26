@@ -1,4 +1,5 @@
 # IBharatM Health Care AI Project
+![image](https://github.com/user-attachments/assets/21125e44-3bf6-4213-b46f-e3eeefe93429)
 
 ![IBMSplashScreen](https://github.com/user-attachments/assets/63b1248f-f92c-4ec4-83ab-64ff2b60a3fb)
 
