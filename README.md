@@ -99,6 +99,13 @@ Use the Health Bot for further healthcare-related guidance.
 
 
 ## Demo Video
+https://youtu.be/LnxUfxDQYaQ
+https://stdntpartners-my.sharepoint.com/:v:/g/personal/athrva_deshmukh_studentambassadors_com/EVnIufQMLQVLhSwbIefuShcBPcWXGKAwIdVydrSt6OOT_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=phGXt4
+
+## Presentation Deck
+https://stdntpartners-my.sharepoint.com/:p:/g/personal/athrva_deshmukh_studentambassadors_com/EYRS6x516fpOva9FZFwWe70BZ3RRTh7q7UuP8LrR3_Q4pw?e=FaGdc3
+[Pitch Deck_Template.pptx](https://github.com/user-attachments/files/17931238/Pitch.Deck_Template.pptx)
+
 
 ##  Set Up a Virtual Environment
 It is recommended to use a virtual environment to isolate dependencies. Follow these steps:
